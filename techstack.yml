@@ -1,0 +1,1017 @@
+repo_name: Egaros/navidrome
+report_id: 7afafa22833ac98a5475a97026d33496
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:41:07+00:00'
+requested_by: srichter
+provider: github
+branch: master
+detected_tools_count: 74
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Egaros/navidrome
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/Egaros/navidrome
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Egaros/navidrome
+  detection_source: Repo Metadata
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/Egaros/navidrome
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Egaros/navidrome
+  detection_source: Repo Metadata
+- name: Material-UI
+  description: Material UI is a library of React UI components that implements Google's
+    Material Design.
+  website_url: https://github.com/mui/material-ui
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-05-25 14:16:44.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/.devcontainer/Dockerfile
+  detection_source: ".devcontainer/Dockerfile"
+  last_updated_by: Deluan
+  last_updated_on: 2020-12-01 17:57:29.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-10-04 21:30:01.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-10-04 21:30:01.000000000 Z
+- name: React-admin
+  description: The React Framework for B2B Apps
+  website_url: https://marmelab.com/react-admin/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/10529/default_ee01ccfd3a243fe511b348ef430837ef9e9a2ad5.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-10-04 21:30:01.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 4.1.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-09-09 04:16:13.000000000 Z
+- name: redux-saga
+  description: An alternative side effect model for Redux apps
+  website_url: https://redux-saga.github.io
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-09-09 04:16:13.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.mod
+  detection_source: go.mod
+  last_updated_by: Deluan
+  last_updated_on: 2020-01-05 02:02:15.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/Egaros/navidrome
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Egaros/navidrome
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/.github/workflows/download-link-on-pr.yml
+  detection_source: ".github/workflows/download-link-on-pr.yml"
+  last_updated_by: Deluan
+  last_updated_on: 2021-11-19 18:07:37.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Igor Rzegocki
+  last_updated_on: 2021-10-01 13:14:15.000000000 Z
+- name: Testify
+  description: A toolkit with common assertions and mocks that plays nicely with the
+    standard library
+  website_url: https://github.com/stretchr/testify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Go Testing
+  image_url: https://img.stackshare.io/service/8695/stretchr.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.mod
+  detection_source: go.mod
+  last_updated_by: Deluan
+  last_updated_on: 2021-05-02 20:39:25.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2020-01-14 03:53:23.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/Egaros/navidrome
+  detection_source: Repo Metadata
+- name: assertion
+  description: Ginkgo's Preferred Matcher Library
+  package_url: https://pkg.go.dev/github.com/onsi/gomega/internal/assertion
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.mod
+  detection_source: go.mod
+  last_updated_by: Deluan
+  last_updated_on: 2020-04-01 13:09:51.000000000 Z
+- name: beego
+  description: Beego is an open-source
+  package_url: https://pkg.go.dev/github.com/astaxie/beego
+  version: 1.12.3
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Deluan
+  last_updated_on: 2020-11-15 02:35:39.000000000 Z
+- name: bluemonday
+  description: 'Bluemonday: a fast golang HTML sanitizer'
+  package_url: https://pkg.go.dev/github.com/microcosm-cc/bluemonday
+  version: 1.0.16
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-10-18 17:23:03.000000000 Z
+- name: cobra
+  description: A Commander for modern Go CLI interactions
+  package_url: https://pkg.go.dev/github.com/spf13/cobra
+  version: 0.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Deluan
+  last_updated_on: 2021-07-14 14:53:02.000000000 Z
+- name: convert
+  description: BDD Testing Framework for Go
+  package_url: https://pkg.go.dev/github.com/onsi/ginkgo/ginkgo/convert
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.mod
+  detection_source: go.mod
+  last_updated_by: Deluan
+  last_updated_on: 2020-01-05 02:02:15.000000000 Z
+- name: ginkgo
+  description: BDD Testing Framework for Go
+  package_url: https://pkg.go.dev/github.com/onsi/ginkgo
+  version: 1.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-10-18 17:21:39.000000000 Z
+- name: go-humanize
+  description: Go Humans!
+  package_url: https://pkg.go.dev/github.com/dustin/go-humanize
+  version: 0.0.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Deluan
+  last_updated_on: 2020-03-19 00:39:10.000000000 Z
+- name: go-mssqldb
+  description: Microsoft SQL server driver written in go language
+  package_url: https://pkg.go.dev/github.com/denisenkom/go-mssqldb
+  version: 0.10.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Yash Jipkate
+  last_updated_on: 2021-06-08 19:44:30.000000000 Z
+- name: go-sqlite3
+  description: Sqlite3 driver for go using database/sql
+  package_url: https://pkg.go.dev/github.com/mattn/go-sqlite3
+  version: 1.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Yash Jipkate
+  last_updated_on: 2021-06-08 19:44:30.000000000 Z
+- name: go-zglob
+  description: Go-zglob zglob Usage Installation License MIT Author Yasuhiro Matsumoto
+  package_url: https://pkg.go.dev/github.com/mattn/go-zglob
+  version: 0.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-09-20 17:18:37.000000000 Z
+- name: gomega
+  description: Ginkgo's Preferred Matcher Library
+  package_url: https://pkg.go.dev/github.com/onsi/gomega
+  version: 1.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-11-24 04:43:32.000000000 Z
+- name: google/uuid
+  description: 'Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication
+    and Security Services'
+  package_url: https://pkg.go.dev/github.com/google/uuid
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-07-14 15:09:23.000000000 Z
+- name: goose
+  description: Goose database migration tool - fork of https://bitbucket.org/liamstask/goose
+  package_url: https://pkg.go.dev/github.com/pressly/goose
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.mod
+  detection_source: go.mod
+  last_updated_by: Deluan
+  last_updated_on: 2021-01-31 22:48:08.000000000 Z
+- name: image
+  description: Go supplementary image libraries
+  package_url: https://pkg.go.dev/golang.org/x/image
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Deluan
+  last_updated_on: 2020-08-21 15:33:23.000000000 Z
+- name: imaging
+  description: Imaging is a simple image processing package for Go
+  package_url: https://pkg.go.dev/github.com/disintegration/imaging
+  version: 1.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Deluan
+  last_updated_on: 2020-08-21 15:33:23.000000000 Z
+- name: jwx
+  description: Implementation of various JWx technologies
+  package_url: https://pkg.go.dev/github.com/lestrrat-go/jwx
+  version: 1.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Deluan
+  last_updated_on: 2020-01-05 02:02:15.000000000 Z
+- name: logrus
+  description: Structured, pluggable logging for Go
+  package_url: https://pkg.go.dev/github.com/sirupsen/logrus
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Deluan
+  last_updated_on: 2021-03-12 23:19:39.000000000 Z
+- name: mymysql
+  description: MySQL Client API written entirely in Go
+  package_url: https://pkg.go.dev/github.com/ziutek/mymysql
+  version: 1.5.4
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Yash Jipkate
+  last_updated_on: 2021-06-08 19:44:30.000000000 Z
+- name: net
+  description: Go supplementary network libraries
+  package_url: https://pkg.go.dev/golang.org/x/net
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Deluan
+  last_updated_on: 2020-01-05 02:02:15.000000000 Z
+- name: pretty
+  description: Pretty printing for Go values
+  package_url: https://pkg.go.dev/github.com/kr/pretty
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-01 16:56:55.000000000 Z
+- name: run
+  description: A universal mechanism to manage goroutine lifecycles
+  package_url: https://pkg.go.dev/github.com/oklog/run
+  version: 1.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Deluan
+  last_updated_on: 2020-01-05 02:02:15.000000000 Z
+- name: sanitize
+  description: Package sanitize provides functions for sanitizing text in golang strings
+  package_url: https://pkg.go.dev/github.com/kennygrant/sanitize
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Deluan
+  last_updated_on: 2020-01-05 02:02:15.000000000 Z
+- name: secure
+  description: HTTP middleware for Go that facilitates some quick security wins
+  package_url: https://pkg.go.dev/github.com/unrolled/secure
+  version: 1.0.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Dnouv
+  last_updated_on: 2021-05-11 15:29:55.000000000 Z
+- name: smetrics
+  description: String metrics library written in Go
+  package_url: https://pkg.go.dev/github.com/xrash/smetrics
+  version: 0.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Deluan
+  last_updated_on: 2020-10-20 19:31:49.000000000 Z
+- name: squirrel
+  description: Fluent SQL generation for golang
+  package_url: https://pkg.go.dev/github.com/Masterminds/squirrel
+  version: 1.5.1
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-10-18 17:23:35.000000000 Z
+- name: structs
+  description: Utilities for Go structs
+  package_url: https://pkg.go.dev/github.com/fatih/structs
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Deluan
+  last_updated_on: 2021-08-01 05:21:20.000000000 Z
+- name: tools
+  description: Go Tools
+  package_url: https://pkg.go.dev/golang.org/x/tools
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-10-01 20:38:04.000000000 Z
+- name: viper
+  description: Go configuration with fangs
+  package_url: https://pkg.go.dev/github.com/spf13/viper
+  version: 1.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-09-20 17:18:37.000000000 Z
+- name: wire
+  description: Compile-time Dependency Injection for Go
+  package_url: https://pkg.go.dev/github.com/google/wire
+  version: 0.5.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/go.sum
+  detection_source: go.mod
+  last_updated_by: Deluan
+  last_updated_on: 2021-02-01 13:54:35.000000000 Z
+- name: "@material-ui/core"
+  description: React components that implement Google's Material Design
+  package_url: https://www.npmjs.com/@material-ui/core
+  version: 4.11.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16271/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-05-25 14:16:44.000000000 Z
+- name: "@material-ui/icons"
+  description: Material Design Svg Icons converted to Material-UI React components
+  package_url: https://www.npmjs.com/@material-ui/icons
+  version: 4.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16471/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-10-04 21:29:27.000000000 Z
+- name: "@material-ui/lab"
+  description: Material-UI Lab - Incubator for Material-UI React components
+  package_url: https://www.npmjs.com/@material-ui/lab
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18760/default_b057657dca80f65f97b5bbe8ba405ffa92071739.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-05-25 14:16:44.000000000 Z
+- name: "@material-ui/styles"
+  description: Material-UI Styles - The styling solution of Material-UI
+  package_url: https://www.npmjs.com/@material-ui/styles
+  version: 4.11.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17576/default_e98b11d23d67b728bd1f3e02eba62d97a55febbd.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-05-25 14:16:44.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-11-24 04:13:22.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 12.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-11-24 04:13:22.000000000 Z
+- name: "@testing-library/react-hooks"
+  description: Simple and complete React hooks testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react-hooks
+  version: 7.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17877/default_d41d3b5a213e129d6ea411e77eecb13f54b6aea5.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-11-24 04:13:22.000000000 Z
+- name: blueimp-md5
+  description: JavaScript MD5 implementation
+  package_url: https://www.npmjs.com/blueimp-md5
+  version: 2.19.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17726/default_9693d58c90f5c726ee648423687212d2a94266da.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-09-27 17:25:57.000000000 Z
+- name: connected-react-router
+  description: A Redux binding for React Router v4 and v5
+  package_url: https://www.npmjs.com/connected-react-router
+  version: 6.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18338/default_a605b2929de4c3bd4460a01b8dc144fde6aa5419.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-10-04 21:30:01.000000000 Z
+- name: deepmerge
+  description: A library for deep
+  package_url: https://www.npmjs.com/deepmerge
+  version: 4.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16179/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2020-02-07 14:40:52.000000000 Z
+- name: history
+  description: Manage session history with JavaScript
+  package_url: https://www.npmjs.com/history
+  version: 4.10.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16209/default_dc80ff0a17bac19253430a4f0f586714841116db.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-05-12 02:07:47.000000000 Z
+- name: inflection
+  description: A port of inflection-js to node.js module
+  package_url: https://www.npmjs.com/inflection
+  version: 1.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17018/default_192373fe2b3ded7bb442c39dbf0f34ca3e5bed5d.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-05-15 15:59:56.000000000 Z
+- name: jwt-decode
+  description: Decode JWT tokens, mostly useful for browser applications
+  package_url: https://www.npmjs.com/jwt-decode
+  version: 3.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17395/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2020-11-16 20:06:57.000000000 Z
+- name: lodash.pick
+  description: The lodash method `_.pick` exported as a module
+  package_url: https://www.npmjs.com/lodash.pick
+  version: 4.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16970/default_277303773c2bdb575ee8f4bfe869f0a33d6755b2.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2020-06-19 15:30:19.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in lodash
+    cve_id: CVE-2020-8203
+    cve_url: https://github.com/advisories/GHSA-p6mc-m468-83gw
+    detected_date: Jan 25
+    severity: high
+    first_patched: 
+- name: lodash.throttle
+  description: The lodash method `_.throttle` exported as a module
+  package_url: https://www.npmjs.com/lodash.throttle
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16643/default_8bb559d64720e298d7108ccd64281e535c1c76a8.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2020-06-19 15:30:19.000000000 Z
+- name: prop-types
+  description: Runtime type checking for React props and similar objects
+  package_url: https://www.npmjs.com/prop-types
+  version: 15.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2020-01-14 03:53:23.000000000 Z
+- name: react-dnd
+  description: Drag and Drop for React
+  package_url: https://www.npmjs.com/react-dnd
+  version: 14.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16710/default_9b37c4b9479b5cf61478ac117da829ccdd0ed0a0.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-10-04 21:30:01.000000000 Z
+- name: react-dnd-html5-backend
+  description: HTML5 backend for React DnD
+  package_url: https://www.npmjs.com/react-dnd-html5-backend
+  version: 14.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16799/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-10-04 21:30:01.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-11-24 04:13:22.000000000 Z
+- name: react-ga
+  description: React Google Analytics Module
+  package_url: https://www.npmjs.com/react-ga
+  version: 3.3.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18260/default_e883f2ab27e3b57d1e2e1d1474b09e7351e11b54.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-10-04 21:30:01.000000000 Z
+- name: react-icons
+  description: SVG React icons of popular icon packs using ES6 imports
+  package_url: https://www.npmjs.com/react-icons
+  version: 4.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16909/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-10-04 21:30:01.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 7.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-10-04 21:30:01.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-11-24 04:13:22.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 4.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-10-04 21:30:01.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/Egaros/navidrome/blob/master/ui/package-lock.json
+  detection_source: ui/package.json
+  last_updated_by: Deluan
+  last_updated_on: 2021-05-31 14:21:24.000000000 Z
