@@ -2,7 +2,7 @@ repo_name: Egaros/navidrome
 report_id: 7afafa22833ac98a5475a97026d33496
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T08:01:01+00:00'
+timestamp: '2024-02-29T19:41:07+00:00'
 requested_by: srichter
 provider: github
 branch: master
@@ -202,7 +202,7 @@ tools:
   last_updated_by: Deluan
   last_updated_on: 2021-11-19 18:07:37.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.4.1
   license: MIT
